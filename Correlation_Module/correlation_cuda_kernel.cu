@@ -1,4 +1,5 @@
-#include <torch/extension.h>
+// #include <torch/extension.h>
+#include <torch/types.h>
 #include <ATen/ATen.h>
 using namespace at;
 
